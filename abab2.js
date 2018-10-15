@@ -1,5 +1,5 @@
-var originalArray = ["a", "b", "a", "b", "a", "b"]; //2
-// var originalArray = ["a", "b", "a", "b", "a", "b", "a", "b"]; //3
+//var originalArray = ["a", "b", "a", "b", "a", "b"]; //2
+ var originalArray = ["a", "b", "a", "b", "a", "b", "a", "b"]; //3
 
 
 function abab(array) {
